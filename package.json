@@ -1,0 +1,25 @@
+{
+  "name": "14-github-api-demo",
+  "version": "1.0.0",
+  "description": "Class 14 demo for Code 301 (accessing the GitHub API)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codefellows-seattle-301d30/14-github-api-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codefellows-seattle-301d30/14-github-api-demo/issues"
+  },
+  "homepage": "https://github.com/codefellows-seattle-301d30/14-github-api-demo#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  }
+}
