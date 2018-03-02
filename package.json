@@ -20,6 +20,7 @@
   "homepage": "https://github.com/codefellows-seattle-301d30/14-github-api-demo#readme",
   "dependencies": {
     "cors": "^2.8.4",
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "superagent": "^3.8.2"
   }
 }
